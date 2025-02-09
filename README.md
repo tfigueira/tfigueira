@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tfigueira, aka Thiago Figueira.
-- 👀 I’m interested in techology, specialy themes related to Computer Engineering, programing, IT Security and IoT.
+- 👀 I’m interested in techology, specialy themes related to Computer Engineering, programing and Cybersecurity.
 - 🌱 I’m currently learning about JavaScript and how to implement JS codes to Cybersecurity purposes.
 - 📫 You can reach me through my LinkedIn.
